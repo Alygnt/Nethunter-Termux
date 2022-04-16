@@ -1,8 +1,8 @@
 # Nethunter-Termux
 ***Install Linux terminal/gui in termux***
 
-- ** nethunter-full-termux - * Contains both gui and terminal***
-- ** nethunter-minimal-termux - * Contains only terminal***
+- **nethunter-full-termux -** ***Contains both gui and terminal***
+- **nethunter-minimal-termux -** ***Contains only terminal***
 
 ## Installation - Full(with gui)
 * `pkg update && PKG upgrade`
