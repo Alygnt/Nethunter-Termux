@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/RDXLR/Nethunter-Termux/main/Nethunter-Termux-poster.png">
+</p>
+
+<p align="center">
 <a href="https://github.com/RDXLR/Nethunter-Termux"><img title="Version" src="https://img.shields.io/badge/Version-2020011601-blue.svg"></a>
 <a href="https://github.com/RDXLR/Nethunter-Termux"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
