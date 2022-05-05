@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/rdxlr"><img title="Github" src="https://img.shields.io/badge/rdxlr-grey?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/rdxlr/Metasploit-Termux"><img title="Github" src="https://img.shields.io/badge/Nethunter_Termux-blue?style=for-the-badge"></a>
+<a href="https://github.com/rdxlr/Nethunter-Termux"><img title="Github" src="https://img.shields.io/badge/Nethunter_Termux-blue?style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -15,15 +15,15 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/rdxlr"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
+<a href="https://github.com/rdxlr/Nethunter-Termux"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
 </p>
 
 <p align="center">
 <a href="https://github.com/rdxlr"><img title="Followers" src="https://img.shields.io/github/followers/rdxlr?color=blue&style=flat-square"></a>
-<a href="https://github.com/rdxlr"><img title="Stars" src="https://img.shields.io/github/stars/rdxlr/Nethunter-Termux?color=red&style=flat-square"></a>
-<a href="https://github.com/rdxlr"><img title="Forks" src="https://img.shields.io/github/forks/rdxlr/Nethunter-Termux?color=red&style=flat-square"></a>
-<a href="https://github.com/rdxlr"><img title="Issues" src="https://img.shields.io/github/issues/rdxlr/Nethunter-Termux?color=red&style=flat-square"></a>
-<a href="https://github.com/rdxlr"><img title="Watching" src="https://img.shields.io/github/watchers/rdxlr/Nethunter-Termux?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/rdxlr/Nethunter-Termux"><img title="Stars" src="https://img.shields.io/github/stars/rdxlr/Nethunter-Termux?color=red&style=flat-square"></a>
+<a href="https://github.com/rdxlr/Nethunter-Termux"><img title="Forks" src="https://img.shields.io/github/forks/rdxlr/Nethunter-Termux?color=red&style=flat-square"></a>
+<a href="https://github.com/rdxlr/Nethunter-Termux"><img title="Issues" src="https://img.shields.io/github/issues/rdxlr/Nethunter-Termux?color=red&style=flat-square"></a>
+<a href="https://github.com/rdxlr/Nethunter-Termux"><img title="Watching" src="https://img.shields.io/github/watchers/rdxlr/Nethunter-Termux?label=Watchers&color=red&style=flat-square"></a>
 </p>
 
 ***Install Linux terminal/gui in termux***
