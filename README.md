@@ -26,6 +26,10 @@
 <a href="https://github.com/rdxlr/Nethunter-Termux"><img title="Watching" src="https://img.shields.io/github/watchers/rdxlr/Nethunter-Termux?label=Watchers&color=red&style=flat-square"></a>
 </p>
 
+<p align="center">
+<a href="https://github.com/RDXLR/Nethunter-Termux/blob/main/LICENSE"><img title="Licence" src="https://img.shields.io/badge/License-MIT LICENCE-blue.svg"></a>
+</p>
+
 ***Install Linux terminal/gui in termux***
 
 - **nethunter-full-termux -** ***Contains both gui and terminal***
