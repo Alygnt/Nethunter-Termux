@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash -e
 
 VERSION=2020011601
-BASE_URL=https://images.kali.org/nethunter
+BASE_URL=https://kali.download/nethunter-images/current/rootfs
 USERNAME=kali
 
 function unsupported_arch() {
@@ -129,7 +129,7 @@ function get_rootfs() {
     fi
     printf "${blue}[*] Downloading rootfs...${reset}\n\n"
     get_url
-    axel ${EXTRA_ARGS} --alternate "$ROOTFS_URL"
+    axel ${EXTRA_ARGS} --alternate --num-connections=1 "${ROOTFS_URL}"
 }
 
 function get_sha() {
@@ -139,7 +139,7 @@ function get_sha() {
         if [ -f ${SHA_NAME} ]; then
             rm -f ${SHA_NAME}
         fi
-        axel ${EXTRA_ARGS} --alternate "${SHA_URL}"
+        axel ${EXTRA_ARGS} --alternate --num-connections=1 "${SHA_URL}"
     fi
 }
 
