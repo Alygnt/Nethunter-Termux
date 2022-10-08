@@ -43,6 +43,6 @@
 
 ## Installation - Minimal(without gui)
 * `pkg update && pkg upgrade`
-* `wget https://raw.githubusercontent.com/AlygntR/Nethunter-Termux/main/nethunter-minimal-termux`
+* `wget https://raw.githubusercontent.com/Alygnt/Nethunter-Termux/main/nethunter-minimal-termux`
 * `chmod 777 nethunter-minimal-termux`
 * `./nethunter-minimal-termux`
