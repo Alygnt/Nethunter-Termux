@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Alygnt/Nethunter-Termux/main/Nethunter-Termux-poster.png">
+<img src="https://raw.githubusercontent.com/Alygnt/archive/nethunter-termux/Nethunter-Termux-poster.png">
 </p>
 
 <p align="center">
