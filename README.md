@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Alygnt"><img title="Followers" src="https://img.shields.io/github/followers/rdxlr?color=blue&style=flat-square"></a>
+<a href="https://github.com/Alygnt"><img title="Followers" src="https://img.shields.io/github/followers/alygnt?color=blue&style=flat-square"></a>
 <a href="https://github.com/Alygnt/Nethunter-Termux"><img title="Stars" src="https://img.shields.io/github/stars/Alygnt/Nethunter-Termux?color=red&style=flat-square"></a>
 <a href="https://github.com/Alygnt/Nethunter-Termux"><img title="Forks" src="https://img.shields.io/github/forks/Alygnt/Nethunter-Termux?color=red&style=flat-square"></a>
 <a href="https://github.com/Alygnt/Nethunter-Termux"><img title="Issues" src="https://img.shields.io/github/issues/Alygnt/Nethunter-Termux?color=red&style=flat-square"></a>
